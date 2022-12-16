@@ -67,6 +67,8 @@ public class principal {
 		}while (opcion != 0);
 		
 		System.out.println("commit 1");
+		System.out.println("commit 2");
+		
 
 	}
 
